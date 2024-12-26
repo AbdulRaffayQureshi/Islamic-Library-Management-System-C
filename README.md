@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a simple Quiz Game implemented in C. It allows users to register, login, borrow books, return books, and search for books in a library system. The project demonstrates basic file handling, user input, and data manipulation in C.
+This project is a Library Management System implemented in C. It allows users to register, login, borrow books, return books, and search for books in a library system. The project demonstrates basic file handling, user input, and data manipulation in C.
 
 ## Features
 
