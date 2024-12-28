@@ -424,7 +424,7 @@ void searchBooks() {
     toLowerCase(keyword);
     showProgressBar(); // Show progress bar before displaying search results
     printf("\n====================================\n");
-    printf("=          Search Results          =\n");
+    printf("=          Searched Results          =\n");
     printf("====================================\n");
     int found = 0; // Add a flag to check if any book is found
     for (int i = 0; i < NUM_BOOKS; i++) {
@@ -468,7 +468,7 @@ void advancedSearch() {
             toLowerCase(keyword);
             showProgressBar(); // Show progress bar before displaying search results
             printf("\n====================================\n");
-            printf("=          Search Results          =\n");
+            printf("=          Searched Results          =\n");
             printf("====================================\n");
             for (int i = 0; i < NUM_BOOKS; i++) {
                 char author[50];
@@ -487,7 +487,7 @@ void advancedSearch() {
             toLowerCase(keyword);
             showProgressBar(); // Show progress bar before displaying search results
             printf("\n====================================\n");
-            printf("=          Search Results          =\n");
+            printf("=          Searched Results          =\n");
             printf("====================================\n");
             for (int i = 0; i < NUM_BOOKS; i++) {
                 char genre[30];
